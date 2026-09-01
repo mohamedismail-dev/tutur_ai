@@ -1,4 +1,0 @@
-profile pic
-edit profile
-log out
-delete account
