@@ -1,1 +1,2 @@
 fave list
+add/delete fave
